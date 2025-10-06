@@ -5,11 +5,9 @@ margin: 0;
 padding 0; 
 } 
 
-
 h1, p{ 
 font-family: serif; 
 } 
-
 
 h1{ 
 color:blue; 
@@ -52,5 +50,6 @@ a:active:{
 } 
 
 footer a:visited{
-  color:green; 
+  color: green; 
 }
+
